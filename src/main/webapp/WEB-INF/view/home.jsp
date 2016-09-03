@@ -1,5 +1,5 @@
 <%--
-  User: Daniel
+  User: Daniel Jastrzębski
   Date: 01.09.2016
   Time: 23:11
 --%>
