@@ -1,2 +1,2 @@
 # eShop
-My eShop using Spring and Angular
+My eShop using Spring and Bootstrap
